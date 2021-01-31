@@ -1,6 +1,6 @@
 # Strativied Random Sampling System
 
-![Stratified Random Sampling System]()
+![Stratified Random Sampling System](docs/media/stratified_random_sample.png)
 
 - Write a function that will take in csv path and output a new csv file with a stratified random sample of the original csv. Should return True/False if the stratified csv file was successful.
 - The CSV should have #Successful Audiomoths * 24 clips. Each clip should represent a different hour of the day.
