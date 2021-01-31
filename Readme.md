@@ -1,4 +1,4 @@
-# Strativied Random Sampling System
+# Stratified Random Sampling System
 
 ![Stratified Random Sampling System](docs/media/stratified_random_sample.png)
 
